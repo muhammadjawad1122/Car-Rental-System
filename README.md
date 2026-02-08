@@ -21,5 +21,5 @@ Manages cars, customers, and bookings with GUI and database support.
 4. Run main class
 
 ## Author
-Muhammad Jawad
+Jawad Khan
 
